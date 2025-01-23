@@ -1,1 +1,1 @@
-yuyjyt
+Print("hello")
